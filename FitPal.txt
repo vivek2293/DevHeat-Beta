@@ -1,0 +1,18 @@
+Background:
+Welcome to a realm where determination meets innovation, and the pursuit of fitness becomes an exhilarating adventure. Meet Shivam, a spirited individual on a quest for a healthier lifestyle. Overwhelmed by the bustling demands of daily life, Shivam yearns to break free from the shackles of an inactive routine and embrace a fitter version of himself. As he embarks on this transformative journey, he finds solace in the vision of "FitPal," a revolutionary fitness app that promises to be his loyal companion on this epic odyssey to wellness.
+
+The Challenge:
+As the visionary developer behind "FitPal," you are tasked with creating an awe-inspiring fitness app that tailors to Shivam's unique needs. Your code shall weave a tale of determination, perseverance, and empowerment, ensuring that FitPal becomes the ultimate ally in Shivam's pursuit of a healthier and more active lifestyle.
+
+Description:
+FitPal shall be a beacon of hope, illuminating Shivam's path to fitness through a spectrum of interactive and captivating features, custom-tailored to his needs. With the power of your coding prowess, let the app beckon Shivam into an enchanting world of fitness.
+
+Key Features:
+
+Basic Features:
+Personalized Fitness Regimen: FitPal shall craft a personalized fitness plan based on Shivam's goals, preferences, and fitness level. From invigorating workouts to rejuvenating yoga sessions, each routine shall be handcrafted to inspire and challenge Shivam in equal measure
+
+Nutrition Guidance: Recognizing the significance of a balanced diet, FitPal shall offer nutritional guidance, providing Shivam with scrumptious yet wholesome meal plans to complement his workouts.
+
+Advanced:
+Fitness Community: FitPal shall connect Shivam with a vibrant community of fitness enthusiasts, fostering camaraderie, and enabling him to share his triumphs and struggles while drawing inspiration from others.

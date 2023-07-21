@@ -1,0 +1,16 @@
+Building the Revolutionary Pokemon Rotom:
+Background:
+Welcome to the dawn of the Pokemon era, where Pokemon trainers and researchers are venturing into the vast world filled with diverse Pokemon species. The Pokemon world is teeming with a rich variety of creatures, each possessing unique abilities, types, and traits. However, as the fascination for capturing and studying Pokemon grows, trainers encounter the need for a versatile device that aids them in better understanding and interacting with these marvelous creatures.
+
+The Challenge:
+In this era of extraordinary discovery, the Pokemon community has identified a need for an innovative device known as the "Pokemon Rotom." The purpose of this device is to bridge the gap between trainers and Pokemon, revolutionizing the way they interact, learn, and evolve together. The developers are tasked with creating this groundbreaking device to enhance the Pokemon experience for everyone involved.
+
+Description:
+The Pokemon Rotom is a cool gadget with many features:
+
+
+	Compulsory Feature
+It's like an encyclopedia full of Pokemon info, like types, abilities, and habitats.
+
+         	Advanced Feature
+It connects trainers worldwide, so they can share experiences and have friendly battles.
