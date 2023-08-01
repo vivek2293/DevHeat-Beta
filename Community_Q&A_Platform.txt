@@ -1,0 +1,16 @@
+Design an application with following requirements:
+	• Login & Signup feature
+	• Anyone can ask question on the site and it will be displayed to all other users. Each question should have unique id assigned to it.
+	• Anyone can answer question that was asked on the site.
+	• Upvote and Downvote should be available for each question and answer and their resultant should be displayed near respective question and answer.
+	• Edit/Delete features should be available to the questioner as well as answerer for their respective messages.
+
+Additional:
+	• Each profile should have dashboard with features as:
+		o List of all questions asked by them.
+		o List of all questions answered by them.
+	• Implement a search bar. (Should support search by id as well as regex)
+
+Optional:
+	• Instead of using auth-providers try to build it itself.
+	• Using voting feature, implement a recommendation feature and the negative voted questions and answered should either be hidden or given less priority.
